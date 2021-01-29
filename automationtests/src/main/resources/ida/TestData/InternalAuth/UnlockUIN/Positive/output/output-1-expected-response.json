@@ -1,6 +1,0 @@
-{
-	"id": "mosip.identity.authtype.status.update",
-	"version": "$version$",
-	"errors": null,
-	"responseTime": "$TIMESTAMPZ"
-}
